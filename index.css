@@ -1,0 +1,34 @@
+body {
+    padding: 5%;
+    background-color: #734429;
+}
+
+.content {
+    padding: 5%;
+    
+    
+}
+
+.into { 
+    margin: 2%;
+    padding: 5%;
+    background-color: #A66E4E;
+}
+
+.Proyectos {
+    margin: 2%;
+    padding: 5%;
+    background-color: #BF947A;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+.foto { 
+    width: 200px;
+    height: 200;
+    border-radius: 50%;
+    position: relative;
+    left: 75%;
+    
+}
