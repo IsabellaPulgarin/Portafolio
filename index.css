@@ -4,6 +4,8 @@ body {
 }
 
 .content {
+    display: flex;
+    flex-direction: column;
     padding: 5%;
     
     
@@ -15,7 +17,14 @@ body {
     background-color: #A66E4E;
 }
 
+.tex{
+    display: flex;
+    flex-direction: row;
+}
+
 .Proyectos {
+    display: flex;
+    flex-direction: row;
     margin: 2%;
     padding: 5%;
     background-color: #BF947A;
