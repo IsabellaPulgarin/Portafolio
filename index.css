@@ -29,14 +29,19 @@ body {
 }
 
 .Proyectos {
-    display: flex;
-    flex-wrap: wrap; 
-    gap: 20px; 
-    justify-content: space-between; 
+    
     margin: 2%;
     padding: 5%;
     background-color: #BF947A;
 }
+.Proyecto{
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 20px; 
+    justify-content: space-between; 
+}
+
+
 img {
     width: 200px;
     height: 200px;
