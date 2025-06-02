@@ -19,12 +19,20 @@ body {
 
 .tex{
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap; 
+    gap: 20px; 
+    justify-content: space-between; 
+
+
+
+    
 }
 
 .Proyectos {
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap; 
+    gap: 20px; 
+    justify-content: space-between; 
     margin: 2%;
     padding: 5%;
     background-color: #BF947A;
@@ -35,7 +43,7 @@ img {
 }
 .foto { 
     width: 200px;
-    height: 200;
+    height: 200px;
     border-radius: 50%;
     position: relative;
     left: 75%;
