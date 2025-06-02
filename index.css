@@ -21,20 +21,21 @@ body {
     display: flex;
     flex-wrap: wrap; 
     gap: 20px; 
-    justify-content: space-between; 
+    justify-content: space-between;
+    margin: 2%;
+    padding: 5%; 
 
-
-
-    
 }
 
 .Proyectos {
-    
+    display: flex;
+    flex-direction: column;
     margin: 2%;
     padding: 5%;
     background-color: #BF947A;
 }
-.Proyecto{
+
+.proyecto{
     display: flex;
     flex-wrap: wrap; 
     gap: 20px; 
@@ -50,7 +51,5 @@ img {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    position: relative;
-    left: 75%;
     
 }
