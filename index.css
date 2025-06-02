@@ -19,12 +19,12 @@ body {
 
 .tex{
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
 }
 
 .Proyectos {
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
     margin: 2%;
     padding: 5%;
     background-color: #BF947A;
