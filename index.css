@@ -20,11 +20,8 @@ body {
 .tex{
     display: flex;
     flex-wrap: wrap; 
-    gap: 20px; 
+    gap: 10px; 
     justify-content: space-between;
-    margin: 2%;
-    padding: 5%; 
-
 }
 
 .Proyectos {
